@@ -29,3 +29,18 @@ Create a full stack application for servicing the crack_safe function you wrote 
 Time Limit: 2 hrs 25 min
 
 Link to test:        - 40pts
+
+
+RUN PROJECT:
+
+Backend
+1. set up a venv in backend directory
+2. install uvicorn (pip install uvicorn)
+3. run uvicorn main:app --reload
+4. open http://127.0.0.1:8000/docs for Swagger doc
+
+Frontend
+1. run npm start
+2. open http://localhost:3000/
+
+
